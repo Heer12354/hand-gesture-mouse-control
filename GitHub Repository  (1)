@@ -1,0 +1,30 @@
+# Model file (auto-downloaded on first run)
+hand_landmarker.task
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+handgesture/
+venv/
+env/
+.env/
+.venv/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
