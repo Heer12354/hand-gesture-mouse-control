@@ -7,6 +7,10 @@
 ![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey?logo=apple)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+
+<img width="736" height="480" alt="ezgif-760f955474ad30c7" src="https://github.com/user-attachments/assets/f16d7802-e3d6-4018-8afe-1ed10f03ad6b" />
+
+
 ---
 
 ## ✨ Features
