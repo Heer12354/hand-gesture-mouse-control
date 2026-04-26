@@ -125,7 +125,7 @@ Pull requests are welcome! If you find a bug or have an idea, open an issue firs
 
 ## 👤 Author
 
-**Heet Bhayani** — [@Heer12354](https://github.com/Heer12354)
+**H E E T ⚡️** — [@Heer12354](https://github.com/Heer12354)
 
 ---
 
