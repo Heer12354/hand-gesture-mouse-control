@@ -127,6 +127,8 @@ Pull requests are welcome! If you find a bug or have an idea, open an issue firs
 
 **H E E T ⚡️** — [@Heer12354](https://github.com/Heer12354)
 
+**H A R S H** — [@Harsh01211](https://github.com/Harsh01211)
+
 ---
 
 ## 📄 License
